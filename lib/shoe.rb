@@ -16,4 +16,3 @@ end
 
 
 Shoe.new("Addidas")
-Shoe.cobble = "new"
